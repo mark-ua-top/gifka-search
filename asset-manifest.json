@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gifka-search/static/css/main.46e7ec83.css",
+    "main.js": "/gifka-search/static/js/main.d5373c6a.js",
+    "index.html": "/gifka-search/index.html",
+    "main.46e7ec83.css.map": "/gifka-search/static/css/main.46e7ec83.css.map",
+    "main.d5373c6a.js.map": "/gifka-search/static/js/main.d5373c6a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46e7ec83.css",
+    "static/js/main.d5373c6a.js"
+  ]
+}
